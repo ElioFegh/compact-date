@@ -1,0 +1,9 @@
+Package: com.eliofegh.compact-date
+Name: compact date
+Version: 1.0
+Architecture: iphoneos-arm
+Description: compact date below the time
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

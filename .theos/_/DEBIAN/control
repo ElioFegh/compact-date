@@ -1,0 +1,10 @@
+Package: com.eliofegh.compact-date
+Name: compact date
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ElioFegh
+Author: ElioFegh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1
+Installed-Size: 136
